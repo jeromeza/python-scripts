@@ -54,6 +54,7 @@
 #####################################################################################################################################################
 
 import subprocess
+
 # CREATE VARIABLE TO ADD YOUR ZABBIX SERVER YOU ARE REPORTING TO HERE #
 zabbix_server = "mgmt.zabbix.rsaweb.co.za"
 
